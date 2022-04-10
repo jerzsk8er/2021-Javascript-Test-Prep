@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2021-Javascript-Test-Prep.iml" filepath="$PROJECT_DIR$/.idea/2021-Javascript-Test-Prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../websitetesting/.idea/websitetesting.iml" filepath="$PROJECT_DIR$/../websitetesting/.idea/websitetesting.iml" />
     </modules>
   </component>
 </project>
